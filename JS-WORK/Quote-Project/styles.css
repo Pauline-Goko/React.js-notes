@@ -1,0 +1,19 @@
+
+body{
+    background-color: rgb(235, 219, 219);
+}
+
+
+#button{
+    background-color: rgb(134, 177, 15);
+    height: 30px;
+    border-radius: 15px;
+    font-weight: bold;
+    border: none;
+}
+
+#button:hover{
+    background-color: cornflowerblue;
+    color: white;
+
+}
